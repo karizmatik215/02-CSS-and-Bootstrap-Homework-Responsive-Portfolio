@@ -44,7 +44,7 @@ Use the Bootstrap CSS Framework to create a mobile responsive portfolio.
 You are required to submit the following:
 
 * The URLs of the deployed applications
-https://karizmatik215.github.io/02-CSS-and-Bootstrap-Homework-Responsive-Portfolio/
+* https://karizmatik215.github.io/02-CSS-and-Bootstrap-Homework-Responsive-Portfolio/
 
 * The URLs of the GitHub repositories
-https://github.com/karizmatik215/02-CSS-and-Bootstrap-Homework-Responsive-Portfolio
+* https://github.com/karizmatik215/02-CSS-and-Bootstrap-Homework-Responsive-Portfolio
